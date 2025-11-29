@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- English -->
+    <url>
+        <loc>https://changedinar.com/</loc>
+        <lastmod>2025-11-29</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://changedinar.com/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://changedinar.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://changedinar.com/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://changedinar.com/"/>
+        <image:image>
+            <image:loc>https://changedinar.com/images/og-image.png</image:loc>
+            <image:title>Algerian Dinar Exchange Rate Today - Change Dinar</image:title>
+        </image:image>
+    </url>
+
+    <!-- Français -->
+    <url>
+        <loc>https://changedinar.com/fr/</loc>
+        <lastmod>2025-11-29</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.95</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://changedinar.com/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://changedinar.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://changedinar.com/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://changedinar.com/"/>
+        <image:image>
+            <image:loc>https://changedinar.com/images/og-image.png</image:loc>
+            <image:title>Taux de Change Dinar Algérien Aujourd'hui</image:title>
+        </image:image>
+    </url>
+
+    <!-- العربية -->
+    <url>
+        <loc>https://changedinar.com/ar/</loc>
+        <lastmod>2025-11-29</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.95</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://changedinar.com/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://changedinar.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://changedinar.com/ar/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://changedinar.com/"/>
+        <image:image>
+            <image:loc>https://changedinar.com/images/og-image.png</image:loc>
+            <image:title>سعر الدينار الجزائري اليوم</image:title>
+        </image:image>
+    </url>
+
+</urlset>
